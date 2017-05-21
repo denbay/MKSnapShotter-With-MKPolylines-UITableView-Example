@@ -1,6 +1,6 @@
 # MKSnapShotter-With-MKPolylines-UITableView-Example
 
-Simple project for example how to create a MKSnapShotter with MKPolylines (path on the map) and cached it. So this make the performance scroll higher.
+Simple project for example how to create a MKSnapShotter with MKPolylines (path on the map) and cached it. So, it make the performance scroll higher.
 
 ##### Requirements
 <b>Xcode: >= 8.3.2</b> <br>
