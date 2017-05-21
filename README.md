@@ -3,8 +3,8 @@
 Simple project for example how to create a MKSnapShotter with MKPolylines (path on the map) and cached it. So, it make the performance scroll higher.
 
 ##### Requirements
-<b>Xcode: >= 8.3.2</b> <br>
-<b>iOS: >= 8.0</b> <br>
+<b>Xcode:</b> >= 8.3.2<br>
+<b>iOS:</b> >= 8.0<br>
 
 ## Screenshot 
 
